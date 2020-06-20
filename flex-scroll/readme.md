@@ -1,0 +1,1 @@
+The key is to use Flexbox for all containers that wrap the scrollable container, and give the outermost container a predefined height. Since content lays vertically on the page by default, I recommend making each container use the vertical (column) flex layout rather than the default horizontal (row) layout.
